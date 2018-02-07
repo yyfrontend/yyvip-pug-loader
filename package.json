@@ -1,0 +1,28 @@
+{
+  "name": "yyvip-pug-loader",
+  "version": "1.1.5",
+  "description": "yyvip Pug to html loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yyfrontend/yyvip-pug-loader.git"
+  },
+  "homepage": "https://github.com/yyfrontend/yyvip-pug-loader",
+  "keywords": [
+    "html",
+    "pug",
+    "loader",
+    "webpack",
+    "compile",
+    "plain"
+  ],
+  "author": "chhu1 <1411365142@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^1.0.2",
+    "pug": "^2.0.0-rc.2"
+  }
+}
